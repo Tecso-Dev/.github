@@ -1,79 +1,186 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:48CAE4&height=210&section=header&text=TECSO&fontSize=80&fontAlignY=38&fontColor=ffffff&desc=Software%20%26%20Infrastructure%20Studio%20%C2%B7%20Urmia%2C%20Iran%20%C2%B7%20since%202018&descAlignY=60&descSize=18&animation=fadeIn" alt="TECSO" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/hero-light.svg" width="100%" alt="TECSO — software and infrastructure studio, Urmia, Iran, since 2018" />
+</picture>
+
+<a href="mailto:sobhan.gjhav.azimzadeh@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-818cf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project by email" /></a>&nbsp;
+<a href="https://t.me/+989922068945"><img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=5beaf6" alt="Telegram" /></a>&nbsp;
+<a href="https://noxioai.com"><img src="https://img.shields.io/badge/NOXIOAI-noxioai.com-0f172a?style=for-the-badge&labelColor=1e1b4b" alt="NOXIOAI" /></a>&nbsp;
+<a href="https://sorinflow.com"><img src="https://img.shields.io/badge/SorinFlow-sorinflow.com-0f172a?style=for-the-badge&labelColor=1e1b4b" alt="SorinFlow" /></a>&nbsp;
+<a href="https://github.com/sobhanaz"><img src="https://img.shields.io/badge/Founder-@sobhanaz-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=1e1b4b" alt="Founder on GitHub" /></a>
+
 </div>
 
-<div align="center">
-  <a href="mailto:sobhan.gjhav.azimzadeh@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/+989922068945"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://noxioai.com"><img src="https://img.shields.io/badge/Product-NOXIOAI-8E2DE2?style=for-the-badge&logo=firefox&logoColor=white" alt="NOXIOAI" /></a>
-  <a href="https://sorinflow.com"><img src="https://img.shields.io/badge/Product-SorinFlow-48CAE4?style=for-the-badge&logo=firefox&logoColor=white" alt="SorinFlow" /></a>
-</div>
+<br />
 
----
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
 
-## 🏢 Who we are
+<sub>WHO WE ARE</sub>
 
-**TECSO** is the brand of **راهکارپرداز فن‌آوران هوشمند**, a registered software and infrastructure studio based in Urmia, Iran, working since 2018. A small senior core team plus project-based specialists (network, security, QA, SEO) delivers products end-to-end — from **Vue / Nuxt** front-ends to **Go / Python / PHP** back-ends, the servers and networks they run on, and the documentation that lets your own team carry them forward. Persian-native (FA/EN, RTL) products are our home ground.
+### A small senior team that owns the whole build
 
-> Small team, direct responsibility, written scope, weekly demos, no vendor lock-in.
+**TECSO** is the brand of **راهکارپرداز فن‌آوران هوشمند**, a registered software and infrastructure studio in Urmia, Iran, working since 2018. A senior core team plus project-based specialists (network, security, QA, SEO) delivers products end-to-end: **Vue / Nuxt** front-ends, **Go / Python / PHP** back-ends, the servers and networks they run on, and the documentation that lets your own team carry them forward.
 
----
+</td>
+<td width="38%" valign="top">
 
-## 🧩 What we do
+<sub>WHY TEAMS PICK US</sub>
 
-| | Focus | Stack |
-| :-: | :---- | :---- |
-| 🏛️ | **Enterprise web software & office automation** — workflows, forms, document management, RBAC, dashboards, integrations with existing systems | Vue 3 · Nuxt 3 · TypeScript · Go · Python · PostgreSQL |
-| 🤖 | **AI products & automation** — assistants on your own documents (RAG), request triage, Telegram/web bots, agents behind human approval gates | Python · Go · LLM APIs · local models (Ollama) |
-| ⚙️ | **Back-end, data & integrations** — services, CRMs, SMS/payment/API integrations | Go · Python (FastAPI) · PHP · PostgreSQL · Redis |
-| 🛡️ | **DevOps, servers & networks** — Linux hardening, Docker/Kubernetes (k3s), CI/CD with test gates, encrypted backups, monitoring; network design and remote configuration (Cisco, MikroTik, Juniper) | Docker · Linux · GitHub Actions · Nginx/Caddy · Prometheus/Grafana |
-| 🎨 | **UI/UX & corporate sites** — design systems in Figma, fast SSR sites, technical SEO | Figma · Nuxt · Tailwind |
-| 📄 | **Technical proposals & documentation** — SRS, architecture, estimates and tender responses, delivered under your brand | — |
+- Written scope, weekly demos
+- Your repository from day one
+- Persian-native, RTL-first UX
+- NDA and least-privilege access
+- No vendor lock-in
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Featured work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/numbers-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/numbers-light.svg" width="100%" alt="Founded 2018 · 6 service lines · FA/EN, RTL-native · 100% code ownership" />
+</picture>
 
-- **[SorinFlow](https://github.com/Tecso-Dev/SorinFlow-DaTA-mAmager)** · [live](https://sorinflow.com) — real-estate operations platform: Divar scraper, property inventory and Persian CRM; 189 endpoints, 775 tests, k3s deploy with auto-rollback and encrypted off-site backups.
-- **[KhodroBin](https://github.com/sobhanaz/khodrobin)** — used-car price engine aggregating 5 marketplaces, sub-millisecond ranking, local-model explanations with a five-axis hallucination guard.
-- **[NOXIOAI](https://noxioai.com)** — bilingual AI-employee SaaS: named AI staff handle customer support and marketing from one workspace, with human approval on every outbound action.
-- **[Guardian One](https://sobhanaz.github.io/Gardian-One/)** — design and documentation for an on-premise, AI-augmented physical-security platform (face recognition, access control, RTLS).
-- **[Digikala Clone](https://github.com/sobhanaz/digikala-clone)** · [demo](https://sobhanaz.github.io/digikala-clone/) — public reference implementation of a full Persian e-commerce stack (Nuxt 3 · Go · PostgreSQL · Redis).
-- **[parsi-text](https://github.com/sobhanaz/parsi-text)** · **[alpha-ssl](https://github.com/sobhanaz/alpha-ssl-master)** · **[TeCSO QR](https://github.com/sobhanaz/tecsoqr)** — open-source tooling: Persian text toolkit (npm), SSL automation, PWA QR generator.
+## What we do
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<sub>01 · ENTERPRISE WEB</sub>
+<h3>Software & office automation</h3>
+<p>Workflows, forms, document management, RBAC, dashboards and integrations with the systems you already run.</p>
+<sub><code>Vue 3</code> <code>Nuxt 3</code> <code>Go</code> <code>PostgreSQL</code></sub>
+</td>
+<td width="33%" valign="top">
+<sub>02 · APPLIED AI</sub>
+<h3>AI products & automation</h3>
+<p>Assistants on your own documents (RAG), request triage, Telegram and web bots, agents behind human approval gates.</p>
+<sub><code>Python</code> <code>Go</code> <code>LLM APIs</code> <code>Ollama</code></sub>
+</td>
+<td width="33%" valign="top">
+<sub>03 · BACK-END & DATA</sub>
+<h3>Services & integrations</h3>
+<p>APIs, CRMs, scrapers and data pipelines, with SMS, payment and third-party API integrations.</p>
+<sub><code>FastAPI</code> <code>PHP</code> <code>Redis</code> <code>Playwright</code></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<sub>04 · DEVOPS & NETWORKS</sub>
+<h3>Servers that stay up</h3>
+<p>Linux hardening, Docker and k3s, CI/CD with test gates, encrypted backups, monitoring; network design for Cisco, MikroTik and Juniper.</p>
+<sub><code>Kubernetes</code> <code>GitHub Actions</code> <code>Grafana</code></sub>
+</td>
+<td width="33%" valign="top">
+<sub>05 · UI/UX & WEB</sub>
+<h3>Design systems & sites</h3>
+<p>Figma design systems, fast server-rendered corporate sites and technical SEO, in Persian and English.</p>
+<sub><code>Figma</code> <code>Nuxt</code> <code>Tailwind</code></sub>
+</td>
+<td width="33%" valign="top">
+<sub>06 · DOCUMENTATION</sub>
+<h3>Proposals & specs</h3>
+<p>SRS, architecture, estimates and tender responses, written for your stakeholders and delivered under your brand.</p>
+<sub><code>SRS</code> <code>Architecture</code> <code>Tenders</code></sub>
+</td>
+</tr>
+</table>
 
-## 🤝 How we work
+## Featured work
 
-- **Written scope first.** Every project starts with a scope document and an estimate; changes go through a written addendum.
-- **Weekly demos** on a staging server and a short written report — no surprises at the end.
-- **Your repository, your code.** Source, configuration and documentation live in your Git; ownership transfers on payment, no lock-in.
-- **Security by default.** NDA before any access, named least-privilege accounts, secrets in a password manager, access removed at hand-over.
-- **Remote-first, on-site when it matters.** Kick-offs and critical deployments can be done in person across Iran.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<sub>REAL ESTATE · <a href="https://sorinflow.com">sorinflow.com ↗</a></sub>
+<h3><a href="https://github.com/Tecso-Dev/SorinFlow-DaTA-mAmager">SorinFlow</a></h3>
+<p>Real-estate operations platform: Divar scraper, property inventory and Persian CRM. 189 endpoints, 775 tests, k3s deploy with auto-rollback and encrypted off-site backups.</p>
+<sub><code>FastAPI</code> <code>Playwright</code> <code>PostgreSQL</code> <code>k3s</code></sub>
+</td>
+<td width="50%" valign="top">
+<sub>AI SAAS · <a href="https://noxioai.com">noxioai.com ↗</a></sub>
+<h3><a href="https://noxioai.com">NOXIOAI</a></h3>
+<p>Bilingual AI-employee SaaS: named AI staff handle customer support and marketing from one workspace, with human approval on every outbound action.</p>
+<sub><code>Go</code> <code>Nuxt 3</code> <code>PostgreSQL</code> <code>LLM APIs</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>MARKETPLACE SEARCH · OPEN SOURCE</sub>
+<h3><a href="https://github.com/sobhanaz/khodrobin">KhodroBin</a></h3>
+<p>Used-car price engine across 5 marketplaces: resolves one car across listings, ranks in under a millisecond and explains with a local model behind a five-axis hallucination guard.</p>
+<sub><code>Go</code> <code>FastAPI</code> <code>Nuxt 3</code> <code>Ollama</code></sub>
+</td>
+<td width="50%" valign="top">
+<sub>PHYSICAL SECURITY · <a href="https://sobhanaz.github.io/Gardian-One/">docs ↗</a></sub>
+<h3><a href="https://github.com/sobhanaz/Gardian-One">Guardian One</a></h3>
+<p>Architecture and documentation for an on-premise, AI-augmented security platform: face recognition, access control, RTLS and a full audit trail.</p>
+<sub><code>Go</code> <code>Computer vision</code> <code>NATS</code> <code>Flutter</code></sub>
+</td>
+</tr>
+</table>
+
+<sub>OPEN SOURCE FROM THE TEAM</sub>
+
+<a href="https://github.com/Tecso-Dev?tab=repositories">
+  <img src="https://www.gitskins.com/api/section/projects?username=sobhanaz&theme=midnight&style=aura&repos=Tecso-Dev%2Fcaro%2CTecso-Dev%2Fclaude-team-setup%2Csobhanaz%2Fdigikala-clone%2Csobhanaz%2Fparsi-text" width="100%" alt="Open-source projects: caro, claude-team-setup, digikala-clone, parsi-text" />
+</a>
+
+## How we work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/process-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/process-light.svg" width="100%" alt="Written scope, build in your repo, weekly demo, test-gated deploy, hand-over" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h4>Security by default</h4><p>NDA before any access, named least-privilege accounts, secrets in a password manager, access removed at hand-over.</p></td>
+<td width="33%" valign="top"><h4>Your code, your repo</h4><p>Source, configuration and docs live in your Git. Ownership transfers on payment; changes go through a written addendum.</p></td>
+<td width="33%" valign="top"><h4>Remote-first</h4><p>Day-to-day work is remote. Kick-offs and critical deployments can happen on-site anywhere in Iran.</p></td>
+</tr>
+</table>
+
+## Tech we build with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,react,tailwind,go,python,fastapi,php,postgres,redis,docker,kubernetes,linux,githubactions,cloudflare&perline=8" alt="Vue, Nuxt, TypeScript, React, Tailwind, Go, Python, FastAPI, PHP, PostgreSQL, Redis, Docker, Kubernetes, Linux, GitHub Actions, Cloudflare" />
+</p>
 
 <div dir="rtl" align="right">
 
-## 🇮🇷 برای شرکت‌ها و همکاران در ایران
+## برای شرکت‌ها و همکاران در ایران
 
-**راهکارپرداز فن‌آوران هوشمند** (با نام تجاری TECSO) شرکتی ثبت‌شده در ارومیه است که از سال ۱۳۹۷ به‌صورت تخصصی در حوزهٔ نرم‌افزار سازمانی و اتوماسیون، هوش مصنوعی کاربردی، DevOps و سرور، طراحی و پیکربندی شبکه، UI/UX و تدوین اسناد فنی فعالیت می‌کند. پروژه‌ها با محدودهٔ مکتوب، دموی هفتگی و تحویل کامل کد و مستندات انجام می‌شود؛ همکاری کاملاً دورکاری است و برای جلسات کلیدی حضور در محل ممکن است.
+**راهکارپرداز فن‌آوران هوشمند** (با نام تجاری TECSO) شرکتی ثبت‌شده در ارومیه است که از سال ۱۳۹۷ در این حوزه‌ها کار می‌کند:
+
+- نرم‌افزار سازمانی و اتوماسیون اداری
+- هوش مصنوعی روی داده‌های سازمان و ربات‌های تلگرام و وب
+- DevOps، سرور و پشتیبان‌گیری رمزنگاری‌شده
+- طراحی و پیکربندی شبکه (Cisco، MikroTik، Juniper)
+- طراحی UI/UX و سایت‌های شرکتی
+- تدوین پروپوزال، SRS و اسناد مناقصه
+
+هر پروژه با محدودهٔ مکتوب، دموی هفتگی و تحویل کامل کد و مستندات انجام می‌شود. همکاری دورکاری است و برای جلسات کلیدی حضور در محل ممکن است.
 
 </div>
 
----
+## Work with us
 
-## 🛠️ Tech we build with
+<table width="100%">
+<tr>
+<td width="62%" valign="middle">
+<h3>Have a project in mind?</h3>
+<p>Send a short brief: what you need, your timeline and any systems we must integrate with. You get a written scope and estimate back.</p>
+<p><b>Sobhan Azimzadeh</b> · Founder & Technical Lead<br />
+<a href="mailto:sobhan.gjhav.azimzadeh@gmail.com">sobhan.gjhav.azimzadeh@gmail.com</a> · +98 905 843 2452 · <a href="https://t.me/+989922068945">Telegram</a></p>
+</td>
+<td width="38%" valign="middle" align="center">
+<a href="mailto:sobhan.gjhav.azimzadeh@gmail.com?subject=Project%20brief%20for%20TECSO"><img src="https://img.shields.io/badge/Send_a_brief-818cf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a brief" /></a>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,react,tailwind,go,python,fastapi,php,postgres,redis,docker,kubernetes,linux,githubactions,cloudflare" alt="tech stack" />
-</div>
-
----
-
-## 📬 Work with us
-
-**Sobhan Azimzadeh** — Founder & Technical Lead
-📧 **[sobhan.gjhav.azimzadeh@gmail.com](mailto:sobhan.gjhav.azimzadeh@gmail.com)**  ·  📱 **+98 905 843 2452**  ·  💬 **[Telegram](https://t.me/+989922068945)**  ·  👤 **[github.com/sobhanaz](https://github.com/sobhanaz)**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:8E2DE2,100:4A00E0&height=120&section=footer" alt="footer" />
-</div>
+<p align="center"><sub>TECSO · راهکارپرداز فن‌آوران هوشمند · Urmia, Iran · Cards styled after <a href="https://www.gitskins.com">GitSkins</a></sub></p>
