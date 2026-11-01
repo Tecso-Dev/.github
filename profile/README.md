@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/hero-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/hero-light.svg" width="100%" alt="TECSO — software and infrastructure studio, Urmia, Iran, since 2018" />
-</picture>
+<img src="https://raw.githubusercontent.com/Tecso-Dev/.github/cards/hero.svg" width="100%" alt="TECSO — software and infrastructure studio, Urmia, Iran, since 2018" />
 
 <a href="mailto:sobhan.gjhav.azimzadeh@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-818cf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project by email" /></a>&nbsp;
 <a href="https://t.me/+989922068945"><img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=5beaf6" alt="Telegram" /></a>&nbsp;
@@ -40,10 +37,7 @@
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/numbers-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/numbers-light.svg" width="100%" alt="Founded 2018 · 6 service lines · FA/EN, RTL-native · 100% code ownership" />
-</picture>
+<img src="https://raw.githubusercontent.com/Tecso-Dev/.github/cards/stats.svg" width="100%" alt="TECSO on GitHub: founded 2018, public commits in the last 12 months, active projects, public repositories, last shipped" />
 
 ## What we do
 
@@ -123,18 +117,15 @@
 </tr>
 </table>
 
-<sub>OPEN SOURCE FROM THE TEAM</sub>
+## What we're building right now
 
 <a href="https://github.com/Tecso-Dev?tab=repositories">
-  <img src="https://www.gitskins.com/api/section/projects?username=sobhanaz&theme=midnight&style=aura&repos=Tecso-Dev%2Fcaro%2CTecso-Dev%2Fclaude-team-setup%2Csobhanaz%2Fdigikala-clone%2Csobhanaz%2Fparsi-text" width="100%" alt="Open-source projects: caro, claude-team-setup, digikala-clone, parsi-text" />
+  <img src="https://raw.githubusercontent.com/Tecso-Dev/.github/cards/building.svg" width="100%" alt="Public commits by TECSO project over the last 90 days" />
 </a>
 
 ## How we work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/process-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tecso-Dev/.github/main/profile/assets/process-light.svg" width="100%" alt="Written scope, build in your repo, weekly demo, test-gated deploy, hand-over" />
-</picture>
+<img src="https://raw.githubusercontent.com/Tecso-Dev/.github/cards/process.svg" width="100%" alt="Written scope, build in your repo, weekly demo, test-gated deploy, hand-over" />
 
 <table width="100%">
 <tr>
@@ -143,6 +134,10 @@
 <td width="33%" valign="top"><h4>Remote-first</h4><p>Day-to-day work is remote. Kick-offs and critical deployments can happen on-site anywhere in Iran.</p></td>
 </tr>
 </table>
+
+## Studio activity
+
+<img src="https://raw.githubusercontent.com/Tecso-Dev/.github/cards/city.svg" width="100%" alt="Public commits across TECSO projects over the last 12 months as a 3D city, one tower per day" />
 
 ## Tech we build with
 
@@ -183,4 +178,4 @@
 </tr>
 </table>
 
-<p align="center"><sub>TECSO · راهکارپرداز فن‌آوران هوشمند · Urmia, Iran · Cards styled after <a href="https://www.gitskins.com">GitSkins</a></sub></p>
+<p align="center"><sub>TECSO · راهکارپرداز فن‌آوران هوشمند · Urmia, Iran · 3D cards rebuilt from live GitHub data every 6 hours</sub></p>
