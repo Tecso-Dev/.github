@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-label="How a TECSO project runs: written scope, build in your repo, weekly demo, test-gated deploy, hand-over">
+<title>How a TECSO project runs: written scope, build in your repo, weekly demo, test-gated deploy, hand-over</title>
+<defs>
+  <linearGradient id="p-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#020617"/><stop offset="54%" stop-color="#0f172a"/><stop offset="100%" stop-color="#020617"/></linearGradient>
+  <radialGradient id="p-o1"><stop offset="0%" stop-color="#818cf8" stop-opacity=".75"/><stop offset="60%" stop-color="#818cf8" stop-opacity=".15"/><stop offset="100%" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="p-o2"><stop offset="0%" stop-color="#be5bf6" stop-opacity=".6"/><stop offset="60%" stop-color="#be5bf6" stop-opacity=".13"/><stop offset="100%" stop-color="#be5bf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="p-o3"><stop offset="0%" stop-color="#5beaf6" stop-opacity=".55"/><stop offset="60%" stop-color="#5beaf6" stop-opacity=".12"/><stop offset="100%" stop-color="#5beaf6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="p-shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a5b4fc" stop-opacity=".15"/><stop offset="45%" stop-color="#818cf8" stop-opacity=".85"/><stop offset="100%" stop-color="#be5bf6" stop-opacity=".2"/></linearGradient>
+  <linearGradient id="p-word" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#e0e7ff"/><stop offset="55%" stop-color="#818cf8"/><stop offset="100%" stop-color="#be5bf6"/></linearGradient>
+  <linearGradient id="p-sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".16"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="p-clip"><rect width="860" height="300" rx="22"/></clipPath>
+</defs>
+<style>
+  .p-a{animation:p-fa 10s ease-in-out infinite}
+  .p-b{animation:p-fb 12s ease-in-out infinite 1s}
+  .p-c{animation:p-fc 14s ease-in-out infinite .5s}
+  .p-float{animation:p-float 4.5s ease-in-out infinite}
+  .p-bob{animation:p-bob 5s ease-in-out infinite}
+  .p-pulse{animation:p-pulse 2.4s ease-in-out infinite}
+  .p-sweep{animation:p-sweep 5.5s ease-in-out infinite}
+  .p-wave{opacity:0;animation:p-wave 7s linear infinite}
+  .p-twinkle{animation:p-twinkle 3.6s ease-in-out infinite}
+  @keyframes p-fa{0%,100%{transform:translate(0,0)}50%{transform:translate(26px,-18px)}}
+  @keyframes p-fb{0%,100%{transform:translate(0,0)}50%{transform:translate(-22px,16px)}}
+  @keyframes p-fc{0%,100%{transform:translate(0,0)}50%{transform:translate(16px,-10px)}}
+  @keyframes p-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+  @keyframes p-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  @keyframes p-pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  @keyframes p-sweep{0%{transform:translateX(-260px)}60%,100%{transform:translateX(1100px)}}
+  @keyframes p-wave{0%{opacity:0}6%{opacity:.55}14%,100%{opacity:0}}
+  @keyframes p-twinkle{0%,100%{opacity:.15}50%{opacity:.9}}
+  @media (prefers-reduced-motion:reduce){.p-a,.p-b,.p-c,.p-float,.p-bob,.p-pulse,.p-sweep,.p-wave,.p-twinkle{animation:none}}
+</style>
+<g clip-path="url(#p-clip)">
+  <rect width="860" height="300" fill="url(#p-bg)"/>
+  <g opacity=".55">
+    <circle class="p-a" cx="705" cy="48" r="186" fill="url(#p-o1)"/>
+    <circle class="p-b" cx="86" cy="285" r="165" fill="url(#p-o2)"/>
+    <circle class="p-c" cx="834" cy="276" r="126" fill="url(#p-o3)"/>
+  </g>
+  <rect x="16" y="16" width="828" height="268" rx="18" fill="#fff" fill-opacity=".03" stroke="url(#p-shine)" stroke-width="1.2"/>
+  <text x="44" y="50" text-anchor="start" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#94a3b8">HOW A PROJECT RUNS</text>
+  <text x="44" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#e0e7ff">Five steps up, from a written scope to a clean hand-over</text>
+  <polygon points="165.0,180.0 181.0,168.8 181.0,202.8 165.0,214.0" fill="#31355e"/><polygon points="47.0,180.0 63.0,168.8 181.0,168.8 165.0,180.0" fill="#7a85eb"/><polygon points="47.0,180.0 165.0,180.0 165.0,214.0 47.0,214.0" fill="#262a4a" stroke="#818cf8" stroke-opacity=".6"/><clipPath id="p-s0"><polygon points="47.0,180.0 165.0,180.0 165.0,214.0 47.0,214.0"/></clipPath><g clip-path="url(#p-s0)"><rect class="p-sweep" style="animation-delay:0.0s" x="-73.0" y="180" width="110" height="34" fill="url(#p-sweep)"/></g><text x="59.0" y="202.0" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">01</text><text x="106.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#e0e7ff">Written scope</text><text x="106.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">estimate + SRS, signed</text>
+  <polygon points="323.0,163.0 339.0,151.8 339.0,202.8 323.0,214.0" fill="#3e445f"/><polygon points="205.0,163.0 221.0,151.8 339.0,151.8 323.0,163.0" fill="#9cabef"/><polygon points="205.0,163.0 323.0,163.0 323.0,214.0 205.0,214.0" fill="#31364b" stroke="#a5b4fc" stroke-opacity=".6"/><clipPath id="p-s1"><polygon points="205.0,163.0 323.0,163.0 323.0,214.0 205.0,214.0"/></clipPath><g clip-path="url(#p-s1)"><rect class="p-sweep" style="animation-delay:0.3s" x="85.0" y="163" width="110" height="51" fill="url(#p-sweep)"/></g><text x="217.0" y="185.0" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">02</text><text x="264.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#e0e7ff">Build in your repo</text><text x="264.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">your Git from day one</text>
+  <polygon points="481.0,146.0 497.0,134.8 497.0,202.8 481.0,214.0" fill="#48225d"/><polygon points="363.0,146.0 379.0,134.8 497.0,134.8 481.0,146.0" fill="#b456e9"/><polygon points="363.0,146.0 481.0,146.0 481.0,214.0 363.0,214.0" fill="#391b49" stroke="#be5bf6" stroke-opacity=".6"/><clipPath id="p-s2"><polygon points="363.0,146.0 481.0,146.0 481.0,214.0 363.0,214.0"/></clipPath><g clip-path="url(#p-s2)"><rect class="p-sweep" style="animation-delay:0.6s" x="243.0" y="146" width="110" height="68" fill="url(#p-sweep)"/></g><text x="375.0" y="168.0" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">03</text><text x="422.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#e0e7ff">Weekly demo</text><text x="422.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">staging + short report</text>
+  <polygon points="639.0,129.0 655.0,117.8 655.0,202.8 639.0,214.0" fill="#22585d"/><polygon points="521.0,129.0 537.0,117.8 655.0,117.8 639.0,129.0" fill="#56dee9"/><polygon points="521.0,129.0 639.0,129.0 639.0,214.0 521.0,214.0" fill="#1b4649" stroke="#5beaf6" stroke-opacity=".6"/><clipPath id="p-s3"><polygon points="521.0,129.0 639.0,129.0 639.0,214.0 521.0,214.0"/></clipPath><g clip-path="url(#p-s3)"><rect class="p-sweep" style="animation-delay:0.9s" x="401.0" y="129" width="110" height="85" fill="url(#p-sweep)"/></g><text x="533.0" y="151.0" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">04</text><text x="580.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#e0e7ff">Test-gated deploy</text><text x="580.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">CI, rollback, backups</text>
+  <polygon points="797.0,112.0 813.0,100.8 813.0,202.8 797.0,214.0" fill="#25265b"/><polygon points="679.0,112.0 695.0,100.8 813.0,100.8 797.0,112.0" fill="#5e60e4"/><polygon points="679.0,112.0 797.0,112.0 797.0,214.0 679.0,214.0" fill="#1d1e48" stroke="#6366f1" stroke-opacity=".6"/><clipPath id="p-s4"><polygon points="679.0,112.0 797.0,112.0 797.0,214.0 679.0,214.0"/></clipPath><g clip-path="url(#p-s4)"><rect class="p-sweep" style="animation-delay:1.2s" x="559.0" y="112" width="110" height="102" fill="url(#p-sweep)"/></g><text x="691.0" y="134.0" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#e0e7ff">05</text><text x="738.0" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#e0e7ff">Hand-over</text><text x="738.0" y="258" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">code, docs, access</text>
+  <path d="M 114.0 174.4 L 272.0 157.4 L 430.0 140.4 L 588.0 123.4 L 746.0 106.4" fill="none" stroke="#5beaf6" stroke-opacity=".35" stroke-dasharray="3 6"/>
+  <circle r="5" fill="#5beaf6"><animateMotion dur="5s" repeatCount="indefinite" path="M 114.0 174.4 L 272.0 157.4 L 430.0 140.4 L 588.0 123.4 L 746.0 106.4"/></circle>
+  
+</g>
+<rect x=".5" y=".5" width="859" height="299" rx="21.5" fill="none" stroke="#818cf8" stroke-opacity=".35"/>
+</svg>
